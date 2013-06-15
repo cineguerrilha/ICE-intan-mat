@@ -1,0 +1,13 @@
+a=[];
+z=1;
+cnt =0;
+
+while (z)
+	a=[];
+	while (isempty(a))
+ 		a= pipiTest
+	end;
+sound(sig)
+a
+cnt = cnt+1
+end
